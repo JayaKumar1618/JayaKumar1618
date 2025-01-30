@@ -61,16 +61,18 @@
 
 ---
 
-### 🏆 HackerRank Achievements
+### 🏆 HackerRank Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-150+-green?style=for-the-badge&logo=hackerrank"/>
+  <img src="https://img.shields.io/badge/Gold%20Badge-Algorithms-brightgreen?style=for-the-badge&logo=hackerrank"/>
+  <img src="https://img.shields.io/badge/Silver%20Badge-Data%20Structures-blue?style=for-the-badge&logo=hackerrank"/>
+  <img src="https://img.shields.io/badge/Bronze%20Badge-SQL-orange?style=for-the-badge&logo=hackerrank"/>
 </p>
 
 ---
 
-### 🎬 Fun Animation
+### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaKumar1618&layout=compact&theme=radical" width="50%"/>
 </p>
