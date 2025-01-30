@@ -45,14 +45,6 @@
 
 ---
 
-### 🖥️ Workspace Setup
-
-<p align="center">
-  <img height="30" src="https://img.shields.io/badge/ROG%20Laptop-000000?style=for-the-badge&logo=asus&logoColor=white"/>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
