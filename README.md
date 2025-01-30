@@ -12,7 +12,7 @@
   <img src="https://user-images.190/241123634-e837064b-fe30-4768-a68c-5c7c24faa757.gif" width="400px" />
 </p>
 
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> About Me
+## About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400px" />
 
@@ -35,7 +35,7 @@ class Developer:
 me = Developer()
 ```
 
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> Tech Stack 
+## Tech Stack 
 
 <div align="center">
   
@@ -59,32 +59,7 @@ me = Developer()
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
-
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> What I Do
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212749174-0d9c8def-771c-4f1d-885b-2c54068b3887.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212749182-0d136eae-5bcc-40e9-be07-8bda8ccdad41.gif" width="100">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> Connect with Me 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jaya-kumar-n-37115228a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/jaya_heree">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:sanjay2020jaya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/JayaKumar1618">
@@ -97,18 +72,19 @@ me = Developer()
   <img src="https://streak-stats.demolab.com/?user=JayaKumar1618&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
-
-<!-- Animated Footer -->
+<!-- Pacman Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 <!-- Animated Quote -->
 <div align="center">
   <h3>
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25">
-    <i>"Code is like humor. When you have to explain it, it's bad."</i>
+    <i>"Code is poetry written in logic"</i>
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25">
   </h3>
 </div>
